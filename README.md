@@ -1,2 +1,13 @@
 Implemented RNN, LSTM, XG-Boost for Realtime Stock prediction using Tensorflow, Sci-kit learn Analyzed Realtime News and Sentiments based on business source news and Tweets using NLTK Web Application Created using Streamlit Analysed how sentiments affecting stock prices System Supported over 50+ companies, Index funds, Crypto Coins Frameworks: Pandas, Numpy, Tensorflow, Scikit-learn, Streamlit
+![image](https://github.com/alanpwr/Stock_Market_Prediction_App/assets/142362118/bff2a49f-d501-4d5b-8367-a94a5df9be40)
+![image](https://github.com/alanpwr/Stock_Market_Prediction_App/assets/142362118/63167a52-7cbe-4c1f-bbb5-7da762ef7ee0)
+![image](https://github.com/alanpwr/Stock_Market_Prediction_App/assets/142362118/a16b9bd0-76ab-4405-ac2e-b6cecfd740aa)
+![image](https://github.com/alanpwr/Stock_Market_Prediction_App/assets/142362118/6bd26beb-83e2-4630-9293-fbf91dafdf71)
+![image](https://github.com/alanpwr/Stock_Market_Prediction_App/assets/142362118/676b1f4d-aa0c-4367-ad3c-16d9bfad6b3f)
+![image](https://github.com/alanpwr/Stock_Market_Prediction_App/assets/142362118/65ab766d-abb1-471f-bdea-574fc71a1adb)
+![image](https://github.com/alanpwr/Stock_Market_Prediction_App/assets/142362118/98563408-43bc-4488-b956-1167990ca4e0)
+![image](https://github.com/alanpwr/Stock_Market_Prediction_App/assets/142362118/ac95c799-278b-41cf-bf0f-186d30ee75dd)
+![image](https://github.com/alanpwr/Stock_Market_Prediction_App/assets/142362118/365d1de5-346c-43c5-a017-d5e2b1f8ae5a)
+![image](https://github.com/alanpwr/Stock_Market_Prediction_App/assets/142362118/7aaf6cce-2824-47fa-8cd3-25ebcbb31d24)
+![image](https://github.com/alanpwr/Stock_Market_Prediction_App/assets/142362118/72ad764f-cd5b-4857-8520-a4ccb0584aea)
 ![image](https://github.com/alanpwr/Stock_Market_Prediction_App/assets/142362118/e3d04eb2-66e9-42ce-9273-37818f76c766)
